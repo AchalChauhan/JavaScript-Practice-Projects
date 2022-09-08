@@ -1,0 +1,30 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  background-image: url(/img/perfect-green-grass.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-weight: bold;
+}
+h1 {
+  color: goldenrod;
+}
+#message-el {
+  font-style: italic;
+}
+p {
+  color: white;
+}
+button{
+    margin: 0;
+    padding: 0;
+    border: none;
+    height: 40px;
+    width: 150px;
+    background-color: goldenrod;
+    color: #016f32;
+    font-weight: bolder;
+    font-size:large;
+    border-radius: 2px;
+}
