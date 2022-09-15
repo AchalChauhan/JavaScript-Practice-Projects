@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(35, 57, 57);
+}
+.selections{
+    display: flex;
+    justify-content: center;
+}
+
+.selection{
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 4em;
+    transition: 100ms;
+}
+.selection:hover{
+    transform: scale(1.2);
+}
+.RS{
+    display: inline;
+}
