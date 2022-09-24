@@ -17,7 +17,7 @@ User a Local server to host it.
 ## Screenshots of the projects 
 ###### 1. To-Do List
 ![To-do LI![To-DoList](https://user-images.githubusercontent.com/43654070/192113218-63d03037-191a-4631-9028-4f6f8724c3eb.PNG)
-st](https://user-images.githubusercontent.com/43654070/192113216-59baeb3f-a856-47e4-abb9-fac6778b787c.PNG)
+![To-DoList](https://user-images.githubusercontent.com/43654070/192113371-3691ffb0-1e2f-4529-a4a0-57daae6d5de2.PNG)
 
 ###### 2. Calculator
 ![Calculator](https://user-images.githubusercontent.com/43654070/192113236-17276a0c-df56-4751-9efb-f790e1174d92.PNG)
