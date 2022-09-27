@@ -15,8 +15,8 @@ To use the following project Download or clone the repo there will be separate f
 User a Local server to host it.
 
 ## Screenshots of the projects 
-###### 1. To-Do List
-![To-do LI![To-DoList](https://user-images.githubusercontent.com/43654070/192113218-63d03037-191a-4631-9028-4f6f8724c3eb.PNG)
+###### 1. To-Do Lis
+![To-do LIst](https://user-images.githubusercontent.com/43654070/192533029-45961d81-53cf-46c9-aac5-1944f6d240f6.PNG)
 ![To-DoList](https://user-images.githubusercontent.com/43654070/192113371-3691ffb0-1e2f-4529-a4a0-57daae6d5de2.PNG)
 
 ###### 2. Calculator
